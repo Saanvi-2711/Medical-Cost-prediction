@@ -2,7 +2,7 @@
 This project is a beginner-friendly implementation of a supervised machine learning task using linear regression to predict a person’s annual medical expenses based on various personal and demographic features.
 Note: This project was created purely for learning purposes and to understand the machine learning workflow end-to-end.
 
-Problem Statement
+# Problem Statement
 
 ACME Insurance Inc. wants to automate the prediction of medical costs based on:
 	•	Age
@@ -14,7 +14,7 @@ ACME Insurance Inc. wants to automate the prediction of medical costs based on:
 
 This model will help determine insurance premiums in a way that’s interpretable and compliant with regulations.
 
-Technical Implementation
+# Technical Implementation
 
 This project demonstrates the complete end-to-end machine learning workflow using a linear regression model.
 
