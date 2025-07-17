@@ -1,4 +1,4 @@
-# Medical-Cost-Prediction
+# Medical Cost Prediction
 This project is a beginner-friendly implementation of a supervised machine learning task using linear regression to predict a person’s annual medical expenses based on various personal and demographic features which is demonstrated and developed in Google Colab.
 
 Note: This project was created purely for learning purposes and to understand the machine learning workflow end-to-end.
