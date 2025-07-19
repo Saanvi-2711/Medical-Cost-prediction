@@ -22,6 +22,7 @@ This project was built using the following Python libraries:
 * numpy
 * matplotlib
 * seaborn
+* plotly
 * scikit-learn
 
 ## Technical Implementation
